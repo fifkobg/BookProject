@@ -1,0 +1,42 @@
+        img {
+            border: 5px solid #9c5605;
+        }
+        a:link {
+            color: darkslategray;
+            background-color: transparent;
+            text-decoration: none;
+            font-size: 50px;
+        }
+a:visited {
+    color: darkseagreen;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 50px;
+}
+a:hover {
+    color: slategray;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 50px;
+}
+        h1 {
+            font-size:50px;
+            text-align: center;
+            color: darkslategray;
+            font-family: 'Trebuchet MS';
+        }
+        h2 {
+            color: paleturquoise;
+            font-family: 'Trebuchet MS';
+        }
+        p {
+            text-align: justify;
+            color: rgb(214, 224, 249);
+            font-family:'Trebuchet MS';
+        }
+body {
+    background-image: url('https://img.freepik.com/free-photo/top-view-books-with-copy-space_23-2148827187.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

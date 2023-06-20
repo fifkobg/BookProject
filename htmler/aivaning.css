@@ -1,0 +1,38 @@
+        img {
+            border-radius: 50%;
+            border: 5px solid #9c5605;
+        }
+        a:link {
+            color: aqua;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:visited {
+            color: lightskyblue;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:hover {
+            color: aquamarine;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        h1 {
+            color: rebeccapurple;
+            font-family: 'Trebuchet MS';
+        }
+        h2 {
+            color: paleturquoise;
+            font-family: 'Trebuchet MS';
+        }
+        p {
+            text-align: justify;
+            color: rgb(214, 224, 249);
+            font-family:'Trebuchet MS';
+        }
+body {
+    background-image: url('https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWVzdGhldGljJTIwYm9va3N8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}

@@ -1,0 +1,52 @@
+        img {
+            border: 5px solid black;
+        }
+/*    brown color= #9c5605*/
+        a:link {
+            color: rgb(79, 164, 164);
+            background-color: transparent;
+            text-decoration: none;
+            font-size: 50px;
+            text-shadow: 2px 2px rgb(17, 81, 86);
+            font-family: 'Trebuchet MS';
+        }
+a:visited {
+    color: rgb(36, 36, 218);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 50px;
+    text-shadow: 2px 2px navy;
+    font-family: 'Trebuchet MS';
+}
+a:hover {
+    color: darkslateblue;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 50px;
+    text-shadow: 2px 2px rgb(37, 31, 78);
+    font-family: 'Trebuchet MS';
+}
+        h1 {
+            font-size:50px;
+            text-align: center;
+            color: darkslategray;
+            font-family: 'Trebuchet MS';
+            text-shadow: 2px 2px black;
+        }
+        h2 {
+            color: paleturquoise;
+            font-family: 'Trebuchet MS';
+            text-shadow: 2px 2px black;
+        }
+        p {
+            text-align: justify;
+            color: rgb(214, 224, 249);
+            font-family:'Trebuchet MS';
+            text-shadow: 2px 2px black;
+        }
+body {
+    background-image: url('https://img.freepik.com/free-photo/top-view-books-with-copy-space_23-2148827187.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
